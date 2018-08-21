@@ -79,7 +79,7 @@ body {
   transition: all 0.2s;
   display: inline-block;
   padding: 5px;
-  background-color: #ffffff;
+  background-color: #fffff9;
   border-radius: 5px;
   border: 1px solid transparent;
   color: #4d97ff !important;
@@ -90,7 +90,7 @@ body {
 #view-profile-link:hover {
   background-color: #4d97ff;
   color: #ffffff !important;
-  border: 1px solid #ffffff;
+  border: 1px solid #fffff8;
 }
 #view-profile-link:active {
   transform: translateY(3px);
